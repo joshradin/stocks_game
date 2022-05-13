@@ -1,0 +1,10 @@
+[package]
+name = "stocks-game-library"
+version = "0.1.0"
+authers = ["Joshua Radin <jradin16@gmail.com>"]
+repository = "https://github.com/joshradin/stocks_game/"
+license-file = "LICENSE"
+
+[workspace]
+members = [
+]
